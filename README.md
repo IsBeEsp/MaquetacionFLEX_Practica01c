@@ -7,13 +7,13 @@ Contiene una página HTML con su correspondiente archivo CSS y recursos visuales
 
 ### Desarrollo
 ---
-Este proyecto fué desarrollado en Noviembre de 2022 como práctica para la asignatura de Diseño de Interfaces Web.
+Este proyecto fué desarrollado en Noviembre de 2022 como práctica para la asignatura de Diseño de Interfaces Web; maquetada usando FLEX[^1].
 
 ### Despliegue
 ---
 [Abra este archivo al ejecutar el proyecto](https://github.com/IsBeEsp/MaquetacionFLEX_Practica01c/blob/main/mflexP01c_BelmonteEspinosaIsmael.html)
 
-Si el estilo de la página no aparece, pruebe a modificar esta ruta[^1] en el archivo principal.
+Si el estilo de la página no aparece, pruebe a modificar esta ruta[^2] en el archivo principal.
 
 ``<link rel="stylesheet" href="styles/mflexP01c_BelmonteEspinosaIsmael.css">``
 
@@ -30,4 +30,5 @@ Si el estilo de la página no aparece, pruebe a modificar esta ruta[^1] en el ar
 
 [Recursos adicionales](https://github.com/IsBeEsp/MaquetacionFLEX_Practica01c) 
 
-[^1]: La ruta de la etiqueta HTML link hace referencia a la hoja de estilos del archivo.
+[^1]: Flex es un tipo de maquetado, con el cual las páginas web estructuran su contenido por filas.
+[^2]: La ruta de la etiqueta HTML link hace referencia a la hoja de estilos del archivo.
