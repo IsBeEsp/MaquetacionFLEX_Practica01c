@@ -1,5 +1,5 @@
 # MaquetacionFLEX_Practica01c
-Este repositorio contiene la tarea de maquetación con FLEX que hicimos en el primer trimestre.
+Este repositorio contiene la tarea de maquetación con FLEX[^1] que hicimos en el primer trimestre.
 
 ### Contenido
 ---
